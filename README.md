@@ -1,8 +1,10 @@
 # 👋 Welcome to the TeachTech Contributors Hub 🚀  
-**Gen Z’s Tech Hub — where learning meets building.**
+
+*Gen Z’s Tech Hub — where learning meets building.*
 
 TeachTech is building a movement: open-source tools, real-world learning, and hands-on collaboration.  
 This is the central place to get involved, contribute, and grow your tech skills by *actually building*.
+
 ---
 ## 🌟 What is This Hub?
 
